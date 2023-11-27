@@ -1,1 +1,3 @@
 Hi, Git, from second-file.
+
+Changes made in the main branch
